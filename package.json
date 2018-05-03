@@ -60,7 +60,7 @@
     "next": "5.1.0",
     "ramda": "0.25.0",
     "react": "16.2.0",
-    "react-apollo": "2.0.4",
+    "react-apollo": "2.1.4",
     "react-beautiful-dnd": "6.0.2",
     "react-dom": "16.2.0",
     "react-intersection-observer": "3.0.3",
