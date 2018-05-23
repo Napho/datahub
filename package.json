@@ -102,7 +102,7 @@
     "happypack": "4.0.1",
     "jest": "22.4.3",
     "jest-cli": "22.4.3",
-    "jsdom": "11.6.2",
+    "jsdom": "11.11.0",
     "nodemon": "1.17.2",
     "pretty-format": "22.4.3",
     "progress-bar-webpack-plugin": "1.11.0",
